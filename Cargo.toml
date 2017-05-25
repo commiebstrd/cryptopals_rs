@@ -1,0 +1,10 @@
+[package]
+name = "cryptopals"
+version = "0.1.0"
+authors = ["Spenser Reinhardt <commiebstrd@protonmail.com>"]
+
+[dependencies]
+getopts = "*"
+regex = "*"
+base64 = "*"
+hex_d_hex = "*"
